@@ -16,7 +16,7 @@
 ## Installation
 
 - `git clone https://github.com/mobber007/outreach.git`
-- `cd laravel-vue-spa`
+- `cd outreach`
 - `cp .env.example .env`
 - `composer install`
 - `php artisan key:generate`
